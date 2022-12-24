@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-qltechproject-dev-164946-authRole",
+      "UnauthRoleArn": "arn:aws:iam::465919681008:role/amplify-qltechproject-dev-164946-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::465919681008:role/amplify-qltechproject-dev-164946-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-qltechproject-dev-164946-deployment",
+      "UnauthRoleName": "amplify-qltechproject-dev-164946-unauthRole",
+      "StackName": "amplify-qltechproject-dev-164946",
+      "StackId": "arn:aws:cloudformation:eu-west-1:465919681008:stack/amplify-qltechproject-dev-164946/0cb249a0-82d1-11ed-a0f7-06c62e84a3a1",
+      "AmplifyAppId": "d3k4939i0u9h48"
+    },
+    "categories": {
+      "auth": {
+        "qltechprojectfd3119e8": {}
+      }
+    }
+  }
+}
